@@ -1,0 +1,21 @@
+{
+  "name": "job_assignment",
+  "version": "1.0.0",
+  "description": "Listing jobs from dunzo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js "
+  },
+  "author": "Irshad",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "bcrypt": "^5.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "puppeteer": "^19.9.1"
+  }
+}
