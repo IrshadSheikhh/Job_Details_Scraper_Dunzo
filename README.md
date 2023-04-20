@@ -5,8 +5,9 @@ Getting started
 To get started with this API, clone the repository and install the dependencies:
 
 bash
-Copy code
-git clone https://github.com/your-username/dunzo-job-listings-api.git
+Copy code or clone the repo manually 
+
+gh repo clone IrshadSheikhh/Job_Details_Scraper_Dunzo
 
 npm install
 
